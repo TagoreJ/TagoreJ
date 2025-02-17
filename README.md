@@ -1,6 +1,6 @@
 # 🚀 Tagore J | Aspiring Leader | Research Enthusiast | Innovator  
 
-![Tagore J GitHub Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)  
+![Tagore J GitHub Banner](https://github.com/TagoreJ/Intro/blob/main/assets/Aditya%20Vikram%20Singh%20Banner.jpeg)  
 
 👋 **Hey there! I'm Tagore**  
 
