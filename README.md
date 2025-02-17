@@ -1,4 +1,4 @@
-![TagoreJ Banner](https://raw.githubusercontent.com/TagoreJ/TagoreJ/main/assets/banner.jpg)
+![TagoreJ Banner](https://raw.githubusercontent.com/TagoreJ/TagoreJ/main/assets/banner.jpeg)
 
 ### 👋 Hey, I'm Tagore  
 💡 Passionate about business, finance, and technology.  
